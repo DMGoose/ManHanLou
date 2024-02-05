@@ -6,6 +6,7 @@
 *Loging in needs employee information stored in MySql*
 
 employee number : 666
+
 password : 123456
 
 ## Second-level Menu
