@@ -1,7 +1,7 @@
 # ManHanLou Restaurant Order Service
 ## First-level Menu
-- 1 Log in 满汉楼
-- 2 Log out 满汉楼
+- 1 Log in ManHanLou
+- 2 Log out ManHanLou
 
 *Loging in needs employee information stored in MySql*
 
